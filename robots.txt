@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hukaoen.github.io/xiangzhidaoy/sitemap.xml
